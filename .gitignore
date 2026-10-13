@@ -1,0 +1,8 @@
+﻿/raw data_version4/
+/preprocessed_data_version4/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.ipynb_checkpoints/

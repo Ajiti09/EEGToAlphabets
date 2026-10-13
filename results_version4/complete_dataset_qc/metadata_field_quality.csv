@@ -1,0 +1,13 @@
+field,missing_values,unique_nonmissing
+participant,0,20
+label,0,5
+class_index,0,5
+trial,0,25
+trial_uid,0,2500
+window_uid,0,390000
+window_id,0,156
+fs,0,1
+task_start_used,0,345458
+task_end_used,0,345458
+bad_channels,0,13
+raw_path,0,100

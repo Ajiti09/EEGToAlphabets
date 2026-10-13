@@ -1,0 +1,7 @@
+# Member 1: EEG-to-Alphabets data validation and preprocessing
+# Versions taken from the supplied Python 3.11.9 environment output.
+numpy==2.4.6
+pandas==3.0.6
+scipy==1.17.1
+scikit-learn==1.9.1
+h5py==3.16.0

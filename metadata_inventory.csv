@@ -1,0 +1,4 @@
+﻿file,extension,size_bytes,rows,columns_count,column_names,status
+metadata_version4\channels.csv,.csv,2789,16,9,openbci_channel_index | raw_column_name | electrode_label | scalp_location | raw_recording_status | retained_in_preprocessed_epochs | preprocessed_channel_order | exclusion_reason | notes,Read successfully
+metadata_version4\participants.csv,.csv,9163,20,12,participant_id | raw_archive | participant_group | age_eligibility | sex_or_gender | cohort_recruitment_summary | health_screening | consent_status | sessions_expected | trials_per_session | alphabet_classes | anonymization_note,Read successfully
+metadata_version4\task_description.csv,.csv,3913,31,5,section | field | value | unit | description,Read successfully

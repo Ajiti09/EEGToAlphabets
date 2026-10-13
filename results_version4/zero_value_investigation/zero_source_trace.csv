@@ -1,0 +1,6 @@
+trial_index_zero_based,source_zero_count,saved_zero_count,source_and_saved_zero_positions_match,all_values_match_exactly,source_only_zero_count,saved_only_zero_count,max_absolute_difference
+405,1170,1170,True,True,0,0,0.0
+2405,1170,1170,True,True,0,0,0.0
+1331,645,645,True,True,0,0,0.0
+2056,645,645,True,True,0,0,0.0
+811,585,585,True,True,0,0,0.0

@@ -1,0 +1,2 @@
+windows,channels,samples_per_window,total_values,nonfinite_values,zero_values,global_min,global_max,global_max_abs
+390000,15,8,46800000,0,7515,-249052.890625,111618.484375,249052.890625

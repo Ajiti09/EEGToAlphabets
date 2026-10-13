@@ -1,0 +1,17 @@
+openbci_channel_index,raw_column_name,electrode_label,scalp_location,raw_recording_status,retained_in_preprocessed_epochs,preprocessed_channel_order,exclusion_reason,notes
+0,EXG Channel 0,Fp1,left forehead,recorded in raw OpenBCI files,yes,1,,raw acquisition used 16 EXG channels; final preprocessed tensor retains 15 channels
+1,EXG Channel 1,Fp2,right forehead,recorded in raw OpenBCI files,yes,2,,raw acquisition used 16 EXG channels; final preprocessed tensor retains 15 channels
+2,EXG Channel 2,C3,left central,recorded in raw OpenBCI files,yes,3,,raw acquisition used 16 EXG channels; final preprocessed tensor retains 15 channels
+3,EXG Channel 3,C4,right central,recorded in raw OpenBCI files,yes,4,,raw acquisition used 16 EXG channels; final preprocessed tensor retains 15 channels
+4,EXG Channel 4,P7,left parietal-temporal,recorded in raw OpenBCI files,yes,5,,raw acquisition used 16 EXG channels; final preprocessed tensor retains 15 channels
+5,EXG Channel 5,P8,right parietal-temporal,recorded in raw OpenBCI files,yes,6,,raw acquisition used 16 EXG channels; final preprocessed tensor retains 15 channels
+6,EXG Channel 6,O1,left occipital,recorded in raw OpenBCI files,yes,7,,raw acquisition used 16 EXG channels; final preprocessed tensor retains 15 channels
+7,EXG Channel 7,O2,right occipital,recorded in raw OpenBCI files,yes,8,,raw acquisition used 16 EXG channels; final preprocessed tensor retains 15 channels
+8,EXG Channel 8,F7,left anterior-temporal,recorded in raw OpenBCI files,yes,9,,raw acquisition used 16 EXG channels; final preprocessed tensor retains 15 channels
+9,EXG Channel 9,F8,right anterior-temporal,recorded in raw OpenBCI files,yes,10,,raw acquisition used 16 EXG channels; final preprocessed tensor retains 15 channels
+10,EXG Channel 10,F3,left frontal,recorded in raw OpenBCI files,yes,11,,raw acquisition used 16 EXG channels; final preprocessed tensor retains 15 channels
+11,EXG Channel 11,F4,right frontal,recorded in raw OpenBCI files,yes,12,,raw acquisition used 16 EXG channels; final preprocessed tensor retains 15 channels
+12,EXG Channel 12,T7,left temporal,recorded in raw OpenBCI files,yes,13,,raw acquisition used 16 EXG channels; final preprocessed tensor retains 15 channels
+13,EXG Channel 13,T8,right temporal,recorded in raw OpenBCI files,no,,excluded after channel-quality assessment; identified as problematic channel,raw acquisition used 16 EXG channels; final preprocessed tensor retains 15 channels
+14,EXG Channel 14,P3,left parietal,recorded in raw OpenBCI files,yes,14,,raw acquisition used 16 EXG channels; final preprocessed tensor retains 15 channels
+15,EXG Channel 15,P4,right parietal,recorded in raw OpenBCI files,yes,15,,raw acquisition used 16 EXG channels; final preprocessed tensor retains 15 channels

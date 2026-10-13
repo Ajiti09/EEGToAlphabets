@@ -1,0 +1,2 @@
+file,rows,sample_index_missing,sample_index_min,sample_index_max,sample_index_step_1_count,sample_index_step_2_count,sample_index_nonpositive_steps,sample_index_gaps_gt_1,sample_index_step_values
+TEST_SUBJECT_1/OpenBCISession_OpenBCISession_INNER_SPEECH_TEST_SUBJECT_1_A/OpenBCI-RAW-2026-05-07_14-48-12.txt,64082,0,0.0,254.0,0,63581,500,63581,"{2.0: 63581, -254.0: 500}"
