@@ -1,0 +1,15 @@
+{
+  "model": "LogisticRegression",
+  "features": [
+    "mean",
+    "std",
+    "RMS",
+    "peak_to_peak"
+  ],
+  "features_per_trial": 60,
+  "scaler": "StandardScaler inside sklearn Pipeline",
+  "max_iter": 2000,
+  "random_state": 42,
+  "split_manifest": "/content/drive/MyDrive/EEG_Project_Data/duplicate_aware_loso_trial_manifest.csv",
+  "fold_count": 19
+}
