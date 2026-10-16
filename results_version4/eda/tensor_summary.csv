@@ -1,0 +1,2 @@
+n_trials,n_channels,n_samples_per_trial,sampling_rate_hz,duration_seconds,total_values,finite_values,nonfinite_values,zero_values,zero_fraction,global_min,global_max,global_max_abs,dtype
+2500,15,1248,125.0,9.984,46800000,46800000,0,7515,0.0001605769230769231,-249052.890625,111618.484375,249052.890625,float32

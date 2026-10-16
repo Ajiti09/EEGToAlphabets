@@ -1,0 +1,6 @@
+check,result,details
+tensor_is_3d,True,"(2500, 15, 1248)"
+tensor_trial_count_matches_metadata_rows,True,tensor=2500; metadata=2500
+sampling_rate_hz,125.0,From task_description.csv or 125 Hz fallback
+samples_per_trial,1248,duration_seconds=9.984000
+trial_uid_unique_and_complete,True,unique=2500; rows=2500; missing=0

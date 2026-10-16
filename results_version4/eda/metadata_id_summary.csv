@@ -1,0 +1,4 @@
+field,rows,unique_nonmissing,missing,duplicate_nonmissing_count
+trial_uid,2500,2500,0,0
+participant,2500,20,0,2480
+trial,2500,25,0,2475
