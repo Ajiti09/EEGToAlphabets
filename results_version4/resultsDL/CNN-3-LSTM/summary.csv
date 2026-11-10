@@ -1,0 +1,5 @@
+pipeline,variant,mode,window_sec,model,calibration_name,calib_trials_per_class,n_subjects,mean_accuracy,std_accuracy,mean_balanced_accuracy,std_balanced_accuracy,mean_macro_f1,std_macro_f1,mean_train_runtime_sec,mean_total_runtime_sec
+C3_Picard_50HzNotch_FDF_MultiModel,C3_picard_50HzNotch_FDF,win8_0,0.064,CNN-3-LSTM,calib_40pct_10trials,10,20,0.913333333,0.075362671,0.913333333,0.075362671,0.912545963,0.076542596,467.1542324,507.4237047
+C3_Picard_50HzNotch_FDF_MultiModel,C3_picard_50HzNotch_FDF,win8_0,0.064,CNN-3-LSTM,calib_20pct_5trials,5,20,0.76,0.100524938,0.76,0.100524938,0.75902117,0.101725294,517.9613374,554.5293992
+C3_Picard_50HzNotch_FDF_MultiModel,C3_picard_50HzNotch_FDF,win8_0,0.064,CNN-3-LSTM,calib_approx5pct_1trial,1,20,0.392083333,0.104520452,0.392083333,0.104520452,0.384332468,0.108952262,482.6773886,518.3886844
+C3_Picard_50HzNotch_FDF_MultiModel,C3_picard_50HzNotch_FDF,win8_0,0.064,CNN-3-LSTM,pure_loso,0,20,0.2304,0.096998318,0.2304,0.096998318,0.204433386,0.084663509,482.418141,484.2044755
