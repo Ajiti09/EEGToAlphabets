@@ -383,11 +383,12 @@ Copy or download the results directory after the Kaggle session if the results n
 
 ## 13. Contributor
 
-**GitHub:** [Ajiti09](https://github.com/Ajiti09)
-**GitHub:** [akashs62](https://github.com/akashs62)
-**GitHub:** [Ananya-Priya21](https://github.com/Ananya-Priya21)
-**GitHub:** [Khushi310105](https://github.com/Khushi310105)
-**GitHub:** [ShivaniAgarwal04](https://github.com/ShivaniAgarwal04)
+**GitHub:** 
+[Ajiti09](https://github.com/Ajiti09)
+[akashs62](https://github.com/akashs62)
+[Ananya-Priya21](https://github.com/Ananya-Priya21)
+[Khushi310105](https://github.com/Khushi310105)
+[ShivaniAgarwal04](https://github.com/ShivaniAgarwal04)
 
 ---
 
